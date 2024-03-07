@@ -1,4 +1,4 @@
 -o professor pode colocar pegadinha na questão propositalmente para testar o aluno levando em consideração o conceito de balança da matematica no qual diz que se voce faz alguma operação de um lado da equação obrigatoriamente teria que fazer do outro lado;
 -metodo recursivo é quando nome do metodo sendo definido e dentro dele chamando ele mesmo e segundo ponto metodo recursivo não tem laço mas vai executar muitas vezes.
-google admanager
-
+-definição por sinonimo são definições que proveem um termo ou simbolo com um mesmo significado daquilo que esta sendo definido.
+-definição por genero e diferença efetuada identificando um classe ou categoria mais ampla a qual o objeto pertence e deois refinando se para suas caracteristicas mais especificas dentro dessa categoria utiliza-se onde existem linguagens de programação
