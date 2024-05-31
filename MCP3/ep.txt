@@ -1,0 +1,13 @@
+ Conjunto dos números naturais: ℕ
+ Conjunto dos números inteiros: ℤ
+ Conjunto dos números racionais: ℚ
+ Conjunto dos números irracionais: (ℝ - ℚ)
+ Conjunto dos números reais: ℝ
+ Conjunto dos números complexos: ℂ
+
+ PC.5.8. Considerando o exercício EP. 5.2. Desenvolva um programa, tilizando funções, que
+receba como entradas a quantidade de itens de um determinado produto, o preço unitário do
+produto e as faixas de descontos considerando o número de itens. A saída do programa deverá
+ser o valor total da compra, considerando os descontos, o valor do desconto aplicado e a
+economia do cliente (diferença entre o preço sem desconto e com desconto). Seu programa
+deverá funcionar corretamente para uma quatidade arbitrária de itens comprados. 
